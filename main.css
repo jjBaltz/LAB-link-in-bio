@@ -1,0 +1,36 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.head-image {
+  padding: 30px;
+}
+
+.head-text {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  color: #f4f4f4;
+}
+
+.btn-email {
+  background: rgba(255, 255, 255, 0.1);
+  color: #f4f4f4;
+}
+
+.btn-phone {
+  background: rgba(255, 255, 255, 0.15);
+  color: #f4f4f4;
+}
+
+.btn-github {
+  background: rgba(255, 255, 255, 0.2);
+  color: #f4f4f4;
+}
+
+.btn-website {
+  background: rgba(255, 255, 255, 0.25);
+  color: #f4f4f4;
+}
